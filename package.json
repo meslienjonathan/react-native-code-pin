@@ -1,0 +1,43 @@
+{
+  "name": "codepin",
+  "version": "0.0.2",
+  "description": "this is a react-native component for a implements a code pin view in your project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "codePin",
+    "react-native-code-pin",
+    "code",
+    "ios",
+    "android"
+  ],
+  "author": "Meslien Jonathan",
+  "license": "MIT",
+  "homepage": "https://github.com/meslienjonathan/react-native-code-pin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meslienjonathan/react-native-code-pin.git"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "16.6.1",
+    "react-native": "0.57.5"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.49.2",
+    "react-test-renderer": "16.6.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "bugs": {
+    "url": "https://github.com/meslienjonathan/react-native-code-pin/issues"
+  }
+}
