@@ -1,6 +1,6 @@
 {
   "name": "codepin",
-  "version": "0.0.2",
+  "version": "0.0.6",
   "description": "this is a react-native component for a implements a code pin view in your project.",
   "main": "index.js",
   "scripts": {
