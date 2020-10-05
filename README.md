@@ -7,7 +7,7 @@ _Attention: This package is under development and evolution over time_<br>
 _Contributions are welcome!_<br>
 
 
-<p align='center'><img src='https://image.noelshack.com/fichiers/2020/41/1/1601921268-ezgif-com-gif-maker-2.gif' alt='PinCode'><img src='https://image.noelshack.com/fichiers/2020/41/1/1601921084-ezgif-com-gif-maker.gif' alt='PinCode2'></p>
+<p align='center'><img src='https://image.noelshack.com/fichiers/2020/41/1/1601921268-ezgif-com-gif-maker-2.gif' alt='PinCode'><img src='https://image.noelshack.com/fichiers/2020/41/1/1601921749-ezgif-com-gif-maker.gif' alt='PinCode2'></p>
 
 
 ## Installation
